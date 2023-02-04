@@ -1,4 +1,4 @@
-[![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
+![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
 <h1 align="center">Hi 👋, I'm Arasu Ramanan</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
