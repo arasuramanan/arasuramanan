@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
-<p align="left"> <img src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/media/d368a5f71afcbeb7d6e55cbdc8401ade.gif" alt="arasuramanan" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arasuramanan" alt="arasuramanan" /></a> </p>
 
