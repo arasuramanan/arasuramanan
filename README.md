@@ -1,4 +1,4 @@
-![MasterHead](https://www.pixelstalk.net/wp-content/uploads/images5/4K-Programming-Wallpaper-HD.jpg)
+![MasterHead]()
 <h1 align="center">Hi 👋, I'm Arasu Ramanan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
